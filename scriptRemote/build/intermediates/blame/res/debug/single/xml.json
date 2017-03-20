@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/xml/command_shortcut_info.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/xml/command_shortcut_info.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/xml/pref_general.xml"
+    }
+]

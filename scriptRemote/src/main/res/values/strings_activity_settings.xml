@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="title_activity_settings">Beállítások</string>
+    
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+    <string name="pref_no_cols">Oszlopok száma</string>
+    <string name="pref_mplayer">Médialejátszó</string>
+    <string name="pref_host_ip">IP-cím</string>
+    <string name="pref_host_port">Port</string>
+    <string name="pref_username">Felhasználónév</string>
+    <string name="pref_password">Jelszó</string>
+
+</resources>

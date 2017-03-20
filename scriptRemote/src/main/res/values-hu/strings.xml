@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScriptRemote</string>
+    <string name="title_activity_add_button">Gomb hozzáadása</string>
+    <string name="title_activity_mouse_control">MouseControlActivity</string>
+    <string name="mouse_help">Mozgasd az ujjad az egér irányításához</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="action_runscript">Szkript futtatása</string>
+    <string name="action_mouse">Egér</string>
+    <string name="action_keyboard">Billentyűzet</string>
+    <string name="add">Hozzáadás</string>
+    <string name="placeholder">Helykitöltő</string>
+    <string name="edit">Szerkesztés</string>
+    <string name="remove">Eltávolítás</string>
+    <string name="refresh">Frissítés</string>
+    <string name="cancel">Mégse</string>
+    <string name="name">Név</string>
+    <string name="script">Szkript</string>
+    <string name="confirm">Megerősítés kérése</string>
+    <string name="icon">Ikon</string>
+    <string name="choose">Válassz</string>
+    <string name="sure">Biztosan?</string>
+    <string name="error">Hiba</string>
+    <string name="custom">Egyéni</string>
+    <string name="no_mplayer">Nincs médialejátszó kiválasztva</string>
+    <string name="loading_apps">Alkalmazások betöltése…</string>
+    <string name="ssh_online">Kapcsolódva</string>
+    <string name="ssh_offline">Offline</string>
+    <string name="ssh_error">Hiba</string>
+    <string name="ssh_connecting">Kapcsolódás…</string>
+    <string name="ssh_e_refused">Kapcsolat elutasítva</string>
+    <string name="ssh_e_hostunreach">A kiszolgáló nem elérhető</string>
+    <string name="ssh_e_runningscript">Parancs futtatása</string>
+    <string name="ssh_e_scriptdone">Kész</string>
+    <string name="act_launchapp">Alkalmazás futtatása</string>
+    <string name="act_shutdown">Leállítás</string>
+    <string name="act_restart">Újraindítás</string>
+    <string name="act_hibernate">Hibernálás</string>
+    <string name="act_sleep">Készenlét</string>
+    <string name="act_screen_off">Képernyő kikapcsolása</string>
+    <string name="act_kdelock">KDE - Zárolás</string>
+    <string name="act_kdeunlock">KDE - Feloldás</string>
+    <string name="act_kdevold">Hangerő - Le</string>
+    <string name="act_kdevolu">Hangerő - Fel</string>
+    <string name="act_kdemute">Hangerő - Némítás</string>
+    <string name="act_mplayerselect">Médialejátszó választás</string>
+    <string name="act_play">Média - Lejátszás</string>
+    <string name="act_stop">Média - Stop</string>
+    <string name="act_pause">Média - Szünet</string>
+    <string name="act_play_pause">Média - Lejátszás/Szünet</string>
+    <string name="act_prev">Média - Előző</string>
+    <string name="act_next">Média - Következő</string>
+    <string name="act_"></string>
+    <string name="btn_shutdown">Leállítás</string>
+    <string name="btn_restart">Újraindítás</string>
+    <string name="btn_lock">Zárolás</string>
+    <string name="btn_unlock">Feloldás</string>
+    <string name="btn_mute">Némítás</string>
+    <string name="btn_vol_down">Hangerő le</string>
+    <string name="btn_vol_up">Hangerő fel</string>
+    <string name="btn_play">Lejátszás</string>
+    <string name="btn_stop">Megállítás</string>
+    <string name="btn_pause">Szünet</string>
+    <string name="btn_play_pause">Lejátszás/Szünet</string>
+    <string name="btn_next">Következő</string>
+    <string name="btn_prev">Előző</string>
+    <string name="btn_run">Alkalmazás futtatása</string>
+    <string name="btn_mouse">Egér</string>
+    <string name="btn_"></string>
+    <string name="script_category_system">Rendszer irányítás</string>
+    <string name="script_category_media">Média</string>
+    <string name="script_category_apps">Alkalmazás indítása</string>
+    <string name="script_category_custom">Egyedi parancs</string>
+    <string name="script_category_"></string>
+    <string name="appwidget_text">Gomb parancsikon</string>
+    <string name="configure">Beállítás</string>
+    <string name="add_widget">Widget hozzáadása</string>
+
+    <string name="plugin_name">ScripRemote Run</string>
+    <string name="taskerplugin_message_hint1">Host IP</string>
+    <string name="taskerplugin_message_hint2">Command</string>
+
+
+    <!-- A format string for breadcrumbs in the titlebar.  For left to right languages, such as English, the format will look something like "Main Activity > Sub Activity > Sub Activity 2".  Item #1 is the previous path, item #2 is the separator, and item #3 is the current item.  For most left to right languages, this shouldn't need to be changed. -->
+    <string name="twofortyfouram_locale_breadcrumb_format" >%1$s%2$s%3$s</string>
+
+    <!-- The separator character for breadcrumbs.  For most left to right languages, this shouldn't need to be changed. -->
+    <string name="twofortyfouram_locale_breadcrumb_separator" >\u0020&gt;\u0020</string>
+
+    <!-- The Don't Save button in the menu or Action Bar.  MDPI 21 character maximum -->
+    <string name="twofortyfouram_locale_menu_dontsave">Cancel</string>
+
+    <!-- The Help button in the menu or Action Bar.  MDPI 21 character maximum -->
+    <string name="twofortyfouram_locale_menu_help">Help</string>
+
+    <!-- The Save button in the menu or Action Bar.  MDPI 21 character maximum -->
+    <string name="twofortyfouram_locale_menu_save">Done</string>
+
+
+    <!-- The maximum blurb length in characters.  This value is based on Latin characters. -->
+    <integer name="twofortyfouram_locale_maximum_blurb_length" >50</integer>
+
+</resources>

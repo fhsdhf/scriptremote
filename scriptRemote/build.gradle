@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        applicationId "fhsdhf.scriptremote"
+        minSdkVersion 16
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':dynamicgrid')
+    compile 'com.android.support:support-v4:21.0.3'
+    compile files('libs/jsch-0.1.51.jar')
+
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+}

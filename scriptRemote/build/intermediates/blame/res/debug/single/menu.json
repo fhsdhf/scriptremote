@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/menu/button_menu.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/menu/button_menu.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/menu/activity_add_subject_actions.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/menu/activity_add_subject_actions.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/menu/twofortyfouram_locale_help_save_dontsave.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/menu/twofortyfouram_locale_help_save_dontsave.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/menu/button_menu2.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/menu/button_menu2.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/menu/activity_mouse_control_actions.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/menu/activity_mouse_control_actions.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/menu/main.xml"
+    }
+]

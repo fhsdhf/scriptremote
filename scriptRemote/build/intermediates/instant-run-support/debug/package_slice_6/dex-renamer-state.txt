@@ -1,0 +1,4 @@
+#Mon Mar 20 16:50:53 CET 2017
+base.0=/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/values-v14/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 43,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    }
+]

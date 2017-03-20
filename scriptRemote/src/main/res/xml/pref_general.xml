@@ -1,0 +1,50 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- NOTE: EditTextPreference accepts EditText attributes. -->
+    <!-- NOTE: EditTextPreference's summary should be set to its value by the activity code. -->
+    <EditTextPreference
+        android:inputType="number"
+        android:key="pref_no_cols"
+        android:defaultValue="4"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_no_cols" />
+    <EditTextPreference
+        android:inputType="text"
+        android:key="pref_mplayer"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_mplayer" />
+    <EditTextPreference
+        android:inputType="text"
+        android:key="pref_host_ip"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_host_ip" />
+    <EditTextPreference
+        android:inputType="number"
+        android:key="pref_host_port"
+        android:defaultValue="22"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_host_port" />
+    <EditTextPreference
+        android:inputType="text"
+        android:key="pref_username"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_username" />
+    <EditTextPreference
+        android:inputType="textPassword"
+        android:key="pref_password"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_password" />
+
+</PreferenceScreen>

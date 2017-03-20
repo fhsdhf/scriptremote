@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/layout/main_button.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/layout/main_button.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/layout/command_shortcut_configure.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/layout/command_shortcut_configure.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/layout/command_shortcut.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/layout/command_shortcut.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/layout/spinner_img_item.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/layout/spinner_img_item.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/layout/activity_mouse_control.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/layout/activity_mouse_control.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/layout/activity_add_button.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/layout/activity_add_button.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/layout/taskerplugin_settings.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/layout/taskerplugin_settings.xml"
+    }
+]

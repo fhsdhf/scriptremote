@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/twofortyfouram_locale_ic_menu_save.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/twofortyfouram_locale_ic_menu_save.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/twofortyfouram_locale_ic_menu_help.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/twofortyfouram_locale_ic_menu_help.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_pause.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_pause.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_vol_down.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_vol_down.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_vol_up.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_vol_up.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/twofortyfouram_locale_ic_menu_dontsave.xml",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/twofortyfouram_locale_ic_menu_dontsave.xml"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_shutdown.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_shutdown.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_mute.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_mute.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_mouse.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_mouse.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_unlock.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_unlock.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_run.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_run.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_next.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_next.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_play.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_play.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_stop.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_stop.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_lock.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_lock.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_prev.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_prev.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_play_pause.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_play_pause.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_restart.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_restart.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable/btn_add.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable/btn_add.png"
+    }
+]

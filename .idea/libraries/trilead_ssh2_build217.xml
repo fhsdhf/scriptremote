@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trilead-ssh2-build217">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/scriptRemote/libs/trilead-ssh2-build217.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

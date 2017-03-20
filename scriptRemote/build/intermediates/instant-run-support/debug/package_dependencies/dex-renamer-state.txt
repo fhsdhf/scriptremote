@@ -1,0 +1,13 @@
+#Mon Mar 20 16:50:53 CET 2017
+renamed.3=classes.dex
+renamed.2=classes4.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.3=/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/2/jsch-0.1.51_831b05763f881e1108902c137353c83954c7aaee
+base.2=/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_8dcb0723c2475479ad239083ce8993faf2bf00ae
+base.1=/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48fd24f4b6fe983bb83770b5e50b42996e3fb042
+base.0=/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_c965a8d5da99d0eb92fbb5a5b024bea982208cac
+file.3=/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/2/jsch-0.1.51_831b05763f881e1108902c137353c83954c7aaee/classes.dex
+file.2=/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_8dcb0723c2475479ad239083ce8993faf2bf00ae/classes.dex
+file.1=/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48fd24f4b6fe983bb83770b5e50b42996e3fb042/classes.dex
+file.0=/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_c965a8d5da99d0eb92fbb5a5b024bea982208cac/classes.dex

@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mouse_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <TextView
+        android:id="@+id/mouse_tv_status"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <LinearLayout
+        android:id="@+id/mouse_llb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/mouse_tv_status"
+        android:orientation="horizontal" >
+
+        <Button
+        	android:id="@+id/mouse_b_B"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <Button
+        	android:id="@+id/mouse_b_R"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <Button
+        	android:id="@+id/mouse_b_A"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    
+    
+    <LinearLayout
+        android:id="@+id/mouse_llm"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/mouse_llb"
+        android:orientation="horizontal" >
+
+        <View
+        	android:id="@+id/mouse_m1"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.40"
+            android:background="#dddddd" />
+        <View
+        	android:id="@+id/mouse_m2"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.20"
+            android:background="#bbbbbb" />
+        <View
+        	android:id="@+id/mouse_m3"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.30"
+            android:background="#aaaaaa" />
+    </LinearLayout>
+
+    <fhsdhf.scriptremote.SelectionEnabledEditText
+        android:id="@+id/mouse_et"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/mouse_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/mouse_llm"
+        android:gravity="center"
+        android:text="@string/mouse_help"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

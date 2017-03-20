@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/libs/jsch-0.1.51.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="21761cb18a9d6e22712d1429a50f255833cd7177">
+        <dex dex="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/2/jsch-0.1.51_831b05763f881e1108902c137353c83954c7aaee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/libs/jsch-0.1.51.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21761cb18a9d6e22712d1429a50f255833cd7177">
+        <dex dex="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/2/jsch-0.1.51_831b05763f881e1108902c137353c83954c7aaee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f85d2fe250794d2a44a9365e5f2187929f8143e2">
+        <dex dex="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dd826113b1dd69c3d86be17f287bac91e35120cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/beny/.android/build-cache/c95555bb12316a45bd3862f0a2d3a7d7acf677ce/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_c965a8d5da99d0eb92fbb5a5b024bea982208cac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1a7b794f848410727115bdd76485ed5fa0b29a57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/beny/.android/build-cache/c95555bb12316a45bd3862f0a2d3a7d7acf677ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48fd24f4b6fe983bb83770b5e50b42996e3fb042/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/beny/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_8dcb0723c2475479ad239083ce8993faf2bf00ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/libs/jsch-0.1.51.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.2"
+        sha1="21761cb18a9d6e22712d1429a50f255833cd7177">
+        <dex dex="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/2/jsch-0.1.51_831b05763f881e1108902c137353c83954c7aaee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/beny/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_8dcb0723c2475479ad239083ce8993faf2bf00ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/beny/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_8dcb0723c2475479ad239083ce8993faf2bf00ae/classes.dex" />
+    </item>
+
+</items>

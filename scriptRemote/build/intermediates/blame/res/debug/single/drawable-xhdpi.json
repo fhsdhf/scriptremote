@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_mouse.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable-xhdpi/ic_action_mouse.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_edit.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable-xhdpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_settings.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable-xhdpi/ic_action_settings.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_refresh.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_add.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable-xhdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_remove.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable-xhdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_accept.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable-xhdpi/ic_action_accept.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_keyboard.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable-xhdpi/ic_action_keyboard.png"
+    },
+    {
+        "merged": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_play.png",
+        "source": "/home/beny/dev/androidstudio/ScriptRemote/scriptRemote/src/main/res/drawable-xhdpi/ic_action_play.png"
+    }
+]

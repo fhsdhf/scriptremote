@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScriptRemote.iml" filepath="$PROJECT_DIR$/ScriptRemote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicgrid/dynamicgrid.iml" filepath="$PROJECT_DIR$/dynamicgrid/dynamicgrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scriptRemote/scriptRemote.iml" filepath="$PROJECT_DIR$/scriptRemote/scriptRemote.iml" />
+    </modules>
+  </component>
+</project>

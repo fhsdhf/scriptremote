@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScriptRemote</string>
+    <string name="title_activity_add_button">Add button</string>
+    <string name="title_activity_mouse_control">Mouse</string>
+    <string name="mouse_help">Move your finger to control the mouse</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_runscript">Run script</string>
+    <string name="action_mouse">Mouse</string>
+    <string name="action_keyboard">Keyboard</string>
+    <string name="add">Add</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="refresh">Refresh</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="script">Script</string>
+    <string name="confirm">Ask for confirmation</string>
+    <string name="icon">Ivon</string>
+    <string name="choose">Choose</string>
+    <string name="sure">Are you sure?</string>
+    <string name="error">Erro</string>
+    <string name="custom">Custom</string>
+    <string name="no_mplayer">No media player selected</string>
+    <string name="loading_apps">Loading application list...</string>
+    <string name="ssh_online">Connected</string>
+    <string name="ssh_offline">Offline</string>
+    <string name="ssh_error">Error</string>
+    <string name="ssh_connecting">Connecting…</string>
+    <string name="ssh_e_refused">Connection refused</string>
+    <string name="ssh_e_hostunreach">Host unreachable</string>
+    <string name="ssh_e_runningscript">Run command</string>
+    <string name="ssh_e_scriptdone">Done</string>
+    <string name="act_launchapp">Launch application</string>
+    <string name="act_shutdown">Shutdown</string>
+    <string name="act_restart">Restart</string>
+    <string name="act_hibernate">Hibernate</string>
+    <string name="act_sleep">Sleep</string>
+    <string name="act_screen_off">Turn off screen</string>
+    <string name="act_kdelock">KDE - Lock</string>
+    <string name="act_kdeunlock">KDE - Unlock</string>
+    <string name="act_kdevold">Volume - Up</string>
+    <string name="act_kdevolu">Volume - Down</string>
+    <string name="act_kdemute">Volume - Mute</string>
+    <string name="act_mplayerselect">Select media player</string>
+    <string name="act_play">Media - Play</string>
+    <string name="act_stop">Media - Stop</string>
+    <string name="act_pause">Media - Pause</string>
+    <string name="act_play_pause">Media - Play/Pause</string>
+    <string name="act_prev">Media - Previous</string>
+    <string name="act_next">Media - Next</string>
+    <string name="act_"></string>
+    <string name="btn_shutdown">Shutdown</string>
+    <string name="btn_restart">Reboot</string>
+    <string name="btn_lock">Lock</string>
+    <string name="btn_unlock">Unlock</string>
+    <string name="btn_mute">Mute</string>
+    <string name="btn_vol_down">Volume down</string>
+    <string name="btn_vol_up">Volume up</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_play_pause">Play/pause</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_prev">Previous</string>
+    <string name="btn_run">Launch application</string>
+    <string name="btn_mouse">Mouse</string>
+    <string name="btn_"></string>
+    <string name="script_category_system">System control</string>
+    <string name="script_category_media">Media</string>
+    <string name="script_category_apps">Launch application</string>
+    <string name="script_category_custom">Custom command</string>
+    <string name="script_category_"></string>
+    <string name="appwidget_text">Button shortcut</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="plugin_name">ScripRemote Run</string>
+    <string name="taskerplugin_message_hint1">Host IP</string>
+    <string name="taskerplugin_message_hint2">Command</string>
+
+
+    <!-- A format string for breadcrumbs in the titlebar.  For left to right languages, such as English, the format will look something like "Main Activity > Sub Activity > Sub Activity 2".  Item #1 is the previous path, item #2 is the separator, and item #3 is the current item.  For most left to right languages, this shouldn't need to be changed. -->
+    <string name="twofortyfouram_locale_breadcrumb_format" >%1$s%2$s%3$s</string>
+
+    <!-- The separator character for breadcrumbs.  For most left to right languages, this shouldn't need to be changed. -->
+    <string name="twofortyfouram_locale_breadcrumb_separator" >\u0020&gt;\u0020</string>
+
+    <!-- The Don't Save button in the menu or Action Bar.  MDPI 21 character maximum -->
+    <string name="twofortyfouram_locale_menu_dontsave">Cancel</string>
+
+    <!-- The Help button in the menu or Action Bar.  MDPI 21 character maximum -->
+    <string name="twofortyfouram_locale_menu_help">Help</string>
+
+    <!-- The Save button in the menu or Action Bar.  MDPI 21 character maximum -->
+    <string name="twofortyfouram_locale_menu_save">Done</string>
+
+
+    <!-- The maximum blurb length in characters.  This value is based on Latin characters. -->
+    <integer name="twofortyfouram_locale_maximum_blurb_length" >50</integer>
+
+</resources>
